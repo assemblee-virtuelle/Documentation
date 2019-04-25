@@ -39,7 +39,7 @@ Contribuer au décloisonnement et à la reliance des acteurs du monde de la tran
 
 Contribuer au développement d’un réseau social de la transition
 
-    Missions
+### Missions
 
 La recherche-action, la conception, le prototypage collaboratifs d’outils, de méthodologies et de projets d’innovation sociale et technologique
 
@@ -91,4 +91,4 @@ Une association loi 1901, d’intérêt général, à but non lucratif, régie p
 
 
 
-Pour aller plus loin et lire l’intégralité du #CodeSocial
+Pour aller plus loin et lire l’intégralité du [#CodeSocial](https://www.virtual-assembly.org/wp-content/uploads/2018/02/Code-social-AV-2018-02-01-Version-approuv%C3%A9e-lors-de-lAG-du-2018-02-01.pdf)
