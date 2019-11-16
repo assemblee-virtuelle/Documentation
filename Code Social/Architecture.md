@@ -49,9 +49,9 @@ Bonne lecture !
 
 
 ## Historique
-L’histoire d’un PAIR (Projet, Acteur, idée, Ressource)  permet d’établir le contexte temporel dans lequel il s’inscrit, de comprendre le présent à la lumière du passé, d’identifier les ruptures, les grands tournants, les jeux d’acteurs, et ce faisant, leurs trajectoires, leurs dynamiques. L’histoire d’un PAIR est par ailleurs susceptible de cristalliser des tensions dans la mesure où elle pose la question des origines, celle des auteurs, des responsabilités, des échecs et des succès. La construction collective d’un consensus autour de l’histoire d’un PAIR est à cet égard importante. Elle permet de partir sur de bonnes bases.
+L’historique permet d’établir le contexte temporel dans vous vous inscrivez, de comprendre le présent à la lumière du passé, d’identifier les ruptures, les grands tournants, les jeux d’acteurs, et ce faisant, leurs trajectoires, leurs dynamiques. L’histoire de votre projet est par ailleurs susceptible de cristalliser des tensions dans la mesure où elle pose la question des origines, celle des auteurs, des responsabilités, des échecs et des succès. La construction collective d’un consensus autour de l’histoire d’une aventure est à cet égard importante. Elle permet de partir sur de bonnes bases.
 
-Comment le PAIR est-il né ? Qui en est à l’origine ?  Comment s’est il développé ? Y a t’il eu des moments clés ?
+Comment le projet est-il né ? Qui en est à l’origine ?  Comment s’est il développé ? Y a t’il eu des moments clés ?
 
 ### En quelques mots
 (...)
@@ -61,7 +61,7 @@ Comment le PAIR est-il né ? Qui en est à l’origine ?  Comment s’est il dé
 
 
 ## Raison d'Être
-La raison d’être permet de décrire le contexte dans lequel s’inscrit le PAIR, les enjeux auxquels il entend répondre, les objectifs qu’il se fixe ainsi que les missions qui sont envisagées pour atteindre ces objectifs. La raison d’être est fondamentale, elle constitue le socle de toute aventure humaine. Sa clarté, sa pertinence favorisent la compréhension, l’engagement de tous : Collaborateurs, partenaires, publics, bénéficiaires 
+La raison d’être permet de décrire le contexte du projet, les enjeux auxquels il entend répondre, les objectifs qu’il se fixe ainsi que les missions qui sont envisagées pour atteindre ces objectifs. La raison d’être est fondamentale, elle constitue le socle de toute aventure humaine. Sa clarté, sa pertinence favorisent la compréhension, l’engagement de tous : Collaborateurs, partenaires, publics, bénéficiaires … 
 
 ### Principes généraux et mots clés
 
@@ -80,7 +80,7 @@ Quelles missions vous fixez-vous afin d’atteindre vos objectifs ?
 
 
 ## Modèle Culturel et Artistique
-Le modèle culturel et artistique permet de décrire l’imaginaire, les sources d’inspiration, l’univers de valeurs, les intentions ainsi que les représentations qui sont à l’oeuvre au sein du PAIR. Bien souvent, ces dimensions sont sous-jacentes, implicites, ce qui peut conduire à des malentendus, des tensions qu’il aurait été préférable de désamorcer en amont. A l’inverse, l’explicitation de ces dimensions peut favoriser les processus de reconnaissance et d’identification, ainsi qu’une meilleure cohésion, fondée sur le sens et les valeurs. Ce modèle inclut également la dimension artistique, dont l’importance (sur le plan humain, sur celui de la créativité) est trop souvent minorée dans les champs sociaux et économiques. Ainsi que les enjeux liés aux partage des oeuvres et de la connaissance. 
+Le modèle culturel et artistique permet de décrire l’imaginaire, les sources d’inspiration, l’univers de valeurs, les intentions ainsi que les représentations qui sont à l’oeuvre au sein d’un projet. Bien souvent, ces dimensions sont sous-jacentes, implicites, ce qui peut conduire à des malentendus, des tensions qu’il aurait été préférable de désamorcer en amont. A l’inverse, l’explicitation de ces dimensions peut favoriser les processus de reconnaissance et d’identification, ainsi qu’une meilleure cohésion, fondée sur le sens et les valeurs. Ce modèle inclut également la dimension artistique, dont l’importance (sur le plan humain, sur celui de la créativité) est trop souvent minorée dans les champs sociaux et économiques. Ainsi que les enjeux liés aux partage des oeuvres et de la connaissance. 
 
 ### Principes généraux et mots-clés
 ### Imaginaire et sources d'inspiration
@@ -95,7 +95,8 @@ Les démarches artistiques ont elles leur place au sein du PAIR ? Comment sont-e
 Quelle est la posture du PAIR vis-à-vis de la propriété intellectuelle, du droit d’auteur, du partage de la connaissance ?
 
 ## Modèle Social et Humain
-Le modèle social et humain définit le contexte et les pratiques en termes de relations humaines dans au sein du PAIR et vis-à-vis de l’extérieur. Il permet de partager les principes organisationnels ainsi que leurs conditions de mise en application. Ceux-ci concernent les savoirs-être, la gouvernance, les modalités de contribution et de rétribution, les modalités de partenariats et d’interactions avec l’extérieur, la régulation. 
+Le modèle social et humain définit le contexte et les pratiques en termes de relations humaines dans au sein d’un projet et vis-à-vis de l’extérieur. Il permet de partager les principes organisationnels ainsi que leurs conditions de mise en application. Ceux-ci concernent les savoirs-être, la gouvernance, les modalités de contribution et de rétribution, les modalités de partenariats et d’interactions avec l’extérieur, la régulation. 
+
 ### Principes généraux et mots-clés
 ### Savoirs-être 
 Quelles sont les modalités du vivre-ensemble ? Existe t’il des conventions, des codes, des rituels, des pratiques implicites ?
@@ -111,7 +112,7 @@ Comment, de quelle manière s’organisent les relations avec les partenaires ? 
 Y a t’il des mécanismes de régulation, de gestion des tensions et des conflits ? Quels sont-ils ? Y a t’il des mécanismes de contrôle et d’évaluation ?
 
 ## Modèle Écologique
-Le modèle écologique, trop souvent non pris en compte, permet d’introduire une réflexion quant aux externalités environnementales produites par un PAIR. Celles-ci peuvent être négatives ou positives, destructrices ou régénératives. Le modèle de l’économie symbiotique est ici utilisé. Celui-ci pose la question de la soutenabilité des flux entrants et de celle des flux sortants, il met en lumière les vertus écologiques de la collaboration et de la (re)localisation, il interroge enfin la propension d’une organisation ou d’un projet à utiliser l’intelligence des écosystèmes et à contribuer à leur enrichissement.   
+Le modèle écologique, trop souvent non pris en compte, permet d’introduire une réflexion quant aux externalités environnementales produites par votre projet. Celles-ci peuvent être négatives ou positives, destructrices ou régénératives. Le modèle de l’économie symbiotique est ici utilisé. Celui-ci pose la question de la soutenabilité des flux entrants et de celle des flux sortants, il met en lumière les vertus écologiques de la collaboration et de la (re)localisation, il interroge enfin la propension d’une organisation ou d’un projet à utiliser l’intelligence des écosystèmes et à contribuer à leur enrichissement.   
 ### Principes généraux et mots-clés
 ### Soutenabilité des flux entrants
 De quelles ressources le PAIR a t’il besoin ? Les fournisseurs sont-ils engagés dans une démarche de Responsabilité Sociale et Environnementale ? 
@@ -145,7 +146,7 @@ Les technologies utilisées ou développées favorisent-elles le lien social, la
 
 
 ## Modèle Économique
-Le modèle économique décrit les moyens par lesquels le PAIR entend assurer sa résilience et se développer. Il doit permettre l’accomplissement de la raison d’être, et s’inscrire en cohérence avec l’ensemble des modèles. Il se centre sur la proposition de valeur, laquelle se traduit par des activités clés, lesquelles sont dépendantes de ressources clés. Production d’activités et besoins en ressources engendrent une structure de revenus ainsi qu’une structure de coûts dont le bilan devrait être positif. Il reprend ainsi la méthodologie CANVAS qui comporte également des éléments de contexte, liés au segment de marché, aux partenaires clés, à la stratégie de communication et aux canaux de distribution.
+Le modèle économique décrit les moyens par lesquels votre projet entend assurer sa résilience et se développer. Il doit permettre l’accomplissement de la raison d’être, et s’inscrire en cohérence avec l’ensemble des modèles. Il se centre sur la proposition de valeur, laquelle se traduit par des activités clés, lesquelles sont dépendantes de ressources clés. Production d’activités et besoins en ressources engendrent une structure de revenus ainsi qu’une structure de coûts dont le bilan devrait être positif. Il reprend ainsi la méthodologie CANVAS qui comporte également des éléments de contexte, liés au segment de marché, aux partenaires clés, à la stratégie de communication et aux canaux de distribution.
 ### Principes généraux et mots-clés
 ### Proposition de valeur
 Qu’apportez vous à vos bénéficiaires ? A quel besoin et/ou problème votre répondez-vous ? Quelle est votre valeur ajoutée ? Quels sont vos points forts ? 
@@ -167,7 +168,7 @@ Canaux de distribution : Quels sont les canaux par lesquels vous envisagez de co
 
 
 ## Modèle Juridique et Financier
-Le modèle juridique et financier décrit les aspects contractuels et légaux du PAIR. Il est opposable devant la loi et les juridictions compétentes. Il peut être conçu comme une traduction sur le juridique et financier, du code social dans son ensemble. Dans cette perspective, il découle de la vision qui a été formulée autour du PAIR. Le modèle comporte les éléments liés à la structure juridique et financière du PAIR, ceux ayant trait à la propriété et aux licences utilisées, à la manière dont le pouvoir est organisé d’un point de vue juridique, à la stratégie juridique et financière, et à la transmission éventuelle du PAIR.
+Le modèle juridique et financier décrit les aspects contractuels et légaux de votre projet. Il est opposable devant la loi et les juridictions compétentes. Il peut être conçu comme une traduction sur le juridique et financier, du code social dans son ensemble. Dans cette perspective, il découle de la vision qui a été formulée autour de ce projet. Le modèle comporte les éléments liés à la structure juridique et financière du projet, ceux ayant trait à la propriété et aux licences utilisées, à la manière dont le pouvoir est organisé d’un point de vue juridique, à la stratégie juridique et financière, et à la transmission éventuelle de votre projet.
 ### Principes généraux et mots clés 
 ### Structuration juridique et financière
 Quelle est la forme juridique du PAIR ? Quel est l’objet déclaré du PAIR ? Y a t’il une charte / #CodeSocial / CGU ? Quelle est la territorialité juridique et financière du PAIR ? Les documents juridiques et financiers sont-ils publics ? Pourquoi avez vous fait ces choix ? S’inscrivent ils en cohérence avec la raison d’être et l’ensemble des modèles ?
