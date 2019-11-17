@@ -55,43 +55,48 @@ Le rôle peut être assuré par plusieurs personnes et c'est même préférable 
 
 -----
 
-# Les cercles support
+# Les cercles
 
 :::info
 [Template d'une fiche cercle](https://hackmd.lescommuns.org/s/rycxZ6WhX#)
 :::
 
-| Nom & lien |Référents|
-| --------|------|
-|[R&D & Animation tech](https://hackmd.lescommuns.org/CYQwpgRgHArATAMwLTAJxgMZICwgSJEGAZgEYkpsNsFUJUAGGIoA?both)|Simon, Michel C, Jonas, Franck|
-|[R&D & Animation Inno Sociale](https://hackmd.lescommuns.org/MYdgzCwEZgrAtATgCwAYBm9nPQDngIbAAmAbEgEymrE3F7KlA===?both)|Michel C, Jonas, Franck|
-|[Communauté / RH](https://hackmd.lescommuns.org/MYDgLAjA7AnATANgLQggEwGZLHDUUQCsyUIaIUGFApgAxoDMQA==#)|Michel C, Mathieu C|
-|[Code Social](https://hackmd.lescommuns.org/IwTgZgpgRsAMBMBaGYDGiAswCsZEEMN4ATRAdjH1hBEJAGZ8A2IA#)|Franck, Michel F, Mathieu C|
-|[Admin, Gestion, Compta](https://hackmd.lescommuns.org/MwdgrARiIEwIYFowgCwA4ErMDcCceAjAniigGwCmADITmACZpA==#)|Pierre BM, Michel C|
-|[Recherche de financements](https://hackmd.lescommuns.org/AwDghiBMAsYCYFoBGBjEBGB0CsJFMhWCwwDMBTATjgGZz1LIg===?both)|Michel Bernand-Mantel, Mathieu Coste, Guillaume Rouyer
-|[Local (vie et confort du)](https://hackmd.lescommuns.org/KwJgRgbAZgjAxgQwLQIAwBN1ICzAJwDsSAHAKb5LoEjFxSoHEDMIMQA=#)|Samy, Benoit F|
-|[Système d'information](https://hackmd.lescommuns.org/GwDgZsCcCM4LQEMBMAWMcUAZgLiBkSeSYYAJtGGgKzABGQA=#)|Samy, Benoit F, Michel C, Jonas|
-|[Communication](https://hackmd.lescommuns.org/OwFgDAbATKBmC0wCcUCs8RLFeBDJw6ARjABykSwDGAzDRACZA===#)|Thomas, Guillaume, Franck, Pierre, Yannick|
-|[Structure commerciale](https://hackmd.lescommuns.org/AwTgbATAplEIwFoDGSBGYEBYCsB2RAHAIYBmECcJuEmIqcEIwBQA#) |
+| Type | Nom & lien |Référent - Membres|
+|-------|------|------|
+|Cercle support|[Communauté / RH](https://hackmd.lescommuns.org/MYDgLAjA7AnATANgLQggEwGZLHDUUQCsyUIaIUGFApgAxoDMQA==#)|Ancelin - Guillaume R|
+|Cercle support|[Conseil d'Administration](https://hackmd.lescommuns.org/IwTgZgpgRsAMBMBaGYDGiAswCsZEEMN4ATRAdjH1hBEJAGZ8A2IA#)|Michel C & Franck C (co-présidents), Mathieu R & Pierre SdJ (trésoriers), Pierre BM & Guillaume R (secrétaires)|
+|Cercle support|[Admin, Gestion, Compta](https://hackmd.lescommuns.org/MwdgrARiIEwIYFowgCwA4ErMDcCceAjAniigGwCmADITmACZpA==#)|Pierre SdJ - Mathieu R|
+|Cercle support|[Recherche de financements](https://hackmd.lescommuns.org/AwDghiBMAsYCYFoBGBjEBGB0CsJFMhWCwwDMBTATjgGZz1LIg===?both)|Guillaume R - Michel BM|
+|Cercle support|[Local (vie et confort du)](https://hackmd.lescommuns.org/KwJgRgbAZgjAxgQwLQIAwBN1ICzAJwDsSAHAKb5LoEjFxSoHEDMIMQA=#)|Ancelin|
+|Cercle support|[Système d'information](https://hackmd.lescommuns.org/GwDgZsCcCM4LQEMBMAWMcUAZgLiBkSeSYYAJtGGgKzABGQA=#)|Jonas - Guillaume, Pierre|
+|Cercle projet|[Communication](https://hackmd.lescommuns.org/OwFgDAbATKBmC0wCcUCs8RLFeBDJw6ARjABykSwDGAzDRACZA===#)|Guillaume - Ancelin|
+|Cercle projet|Bus sémantique|Simon L - Pierre BM|
+|Cercle projet|Code Social & TOTEM (méthodo)|Mathieu Coste - Guillaume R, Franck C, Pierre BM|
+|Cercle projet|[SemApps](https://hackmd.lescommuns.org/EwZgrAnBCMBsAMBaAxgMxMxAWMyCGiARgOwAmmYpxhexYsshAHIUA===#)|Guillaume R - Sebastien R, Simon L, Thomas F, Pierre BM|
+|Cercle projet|[Ontologies (Pair etc.)](https://hackmd.lescommuns.org/IYRg7MYGwKYEwFoBmAOARgYwQFhTAnAsAAwDMaCxuKcpM8U2aQA=#)|Guillaume R - Bernard C, Thomas F
 
 ----
 
-# Les cercles projets
+# Les espaces de discussion
 
 :::info
 [Lien vers le modèle de cercle projet](https://hackmd.lescommuns.org/GzDsGNgEwDgVgLQFMYBYBGDVwIyPZAMxagAM4AZjlKegcEA=#)
 :::
 
+|Type|Nom|
+|-----|-----|
+|[R&D & Animation tech](https://hackmd.lescommuns.org/CYQwpgRgHArATAMwLTAJxgMZICwgSJEGAZgEYkpsNsFUJUAGGIoA?both)|Simon, Michel C, Jonas, Franck|
+|[R&D & Animation Inno Sociale](https://hackmd.lescommuns.org/MYdgzCwEZgrAtATgCwAYBm9nPQDngIbAAmAbEgEymrE3F7KlA===?both)|Michel C, Jonas, Franck|
+|[Structure commerciale](https://hackmd.lescommuns.org/AwTgbATAplEIwFoDGSBGYEBYCsB2RAHAIYBmECcJuEmIqcEIwBQA#) |
+|Cercle projet interne|[ActivityPub](https://hackmd.io/EOijwhVaQ_Gy83O9KIwyLg)|
+
+
+# Archives
 
 |Type|Nom|
 |-----|-----|
-|Cercle projet interne|[ActivityPub](https://hackmd.io/EOijwhVaQ_Gy83O9KIwyLg)|
-|Cercle projet interne|Bus sémantique|
-|Cercle projet interne|Code Social & TOTEM (méthodo)|
 |Cercle projet interne|Fluidgraph|
 |Cercle projet interne|MMMillemont|
-|Cercle projet interne|[Ontologies (Pair etc.)](https://hackmd.lescommuns.org/IYRg7MYGwKYEwFoBmAOARgYwQFhTAnAsAAwDMaCxuKcpM8U2aQA=#)|
-|Cercle projet interne|[SemApps](https://hackmd.lescommuns.org/EwZgrAnBCMBsAMBaAxgMxMxAWMyCGiARgOwAmmYpxhexYsshAHIUA===#)|
 |Cercle projet interne|SemViz|
 |Cercle projet interne|Solid|
 |Cercle projet interne|WPLDP|
