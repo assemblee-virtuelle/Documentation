@@ -1,0 +1,193 @@
+source: https://hackmd.lescommuns.org/GzCs4TgUwYwWlAZgOwDM4BYCGATRcsoocCsJkAORQ4VGVIA=?both#
+
+:::success
+# Tuto Matrix / Riot Assemblée Virtuelle
+:::
+
+> v0.4 (11 décembre 2018)
+
+
+:::info
+# SOMMAIRE
+[TOC]
+:::
+
+
+
+
+### 2 options s'offrent à vous 
+
+* Rejoindre le chat l'AV **via un compte sur https://matrix.virtual-assembly.org**
+    * **Avantage** : c'est plus pratique, vous pouvez facilement accéder à tous les salons
+    * **Inconvénient** c'est un poil plus compliqué.
+
+
+* Rejoindre le chat de l'AV **via un compte sur matrix.org**
+    * **Avantage** : c'est hyper simple
+    * **Inconvénient** : c'est moins pratique
+        * Si vous avez choisi cette option **[cliquez ici](https://riot.im/app/#/room/#general:matrix.virtual-assembly.org), et laissez vous guider.**
+
+Le tutoriel qui suit décrit la marche à suivre pour créer un compte sur **https://matrix.virtual-assembly.org (recommandé)**
+
+### Se connecter au chat de l'AV via un compte sur https://matrix.virtual-assembly.org
+* **Demandez tout d'abord** à quelqu'un de l'AV d'inscrire votre email dans la base, via Jonas. 
+* **Rendez vous sur** : https://riot.im/app/#/room/#general:matrix.virtual-assembly.org (ou sur un autre salon AV, par exemple sur l'un de ceux listés [en bas de ce doc](https://hackmd.lescommuns.org/MwVgLATAphBmAmBaADATgIZkWARmWiqA7LCIvBiOhMgMaoAcsEQA?both#))
+* **AVANT de renseigner les champs d'inscription**, cliquez sur le bloc "Avancé" puis changez l'url du serveur d'accueil avec : **https://matrix.virtual-assembly.org** et cliquez sur "suivant"
+* Laissez ensuite vector.im et cliquez sur "suivant"
+* Vous pouvez maintenant renseigner les champs sur la page qui s'ouvre, **sauf le numéro de téléphone !**
+* Appuyez sur le bouton **"S'inscrire"** et c'est bon, vous allez recevoir un email, qui vous permettra de confirmer votre inscription. 
+* Pour vous connecter, veillez à changer l'url du serveur : Ce n'est **pas** matrix.org **mais https://matrix.virtual-assembly.org**
+* Lorsque vous êtes sur le chat, **cliquez sur "explorer" en haut à gauche de l'interface** pour rejoindre les salons de votre choix...
+* Bienvenus sur le chat de l'Assemblée Virtuelle !
+
+
+# Tuto to join the Virtual Assembly chat
+
+### 2 options are available to you 
+
+* Join the AV chat **via an account on https://matrix.virtual-assembly.org**
+    * **Advantage** : it's more convenient, you can easily access all the lounges
+    * **Disadvantage** it's a little more complicated.
+
+
+* Join the VA chat **via an account on matrix.org**
+    * **Advantage** : it's very simple
+    * **Disadvantage** : it's less practical
+        * If you have chosen this option [click here](https://riot.im/app/#/room/#general:matrix.virtual-assembly.org), and follow the instructions.
+
+The following tutorial describes how to create an account on **https://matrix.virtual-assembly.org (recommended)**
+
+### Login to the VA chat via an account at https://matrix.virtual-assembly.org
+* **Ask someone from the VA** to enter your email into the database via Jonas. 
+* Go to: https://riot.im/app/#/room/#general:matrix.virtual-assembly.org (or on another AV room, for example on one of those listed[at the bottom of this doc](https://hackmd.lescommuns.org/MwVgLATAphBmAmBaADATgIZkWARmWiqA7LCIvBiOhMgMaoAcsEQA?both#))
+* **BEFORE filling in the registration fields**, click on the "Advanced" block** and change the url of the host server with : **https://matrix.virtual-assembly.org** and click on "next"
+* Then leave vector.im and click on "next"
+* You can now fill in the fields on the page that opens, **except the phone number!**
+* Press the button **"Register "** and you will receive an email, which will allow you to confirm your registration. 
+* To connect, make sure you change the url of the server: It is **not** matrix.org **but https://matrix.virtual-assembly.org**
+* When you are in the chat room, **click on "explore" at the top left of the interface** to join the rooms of your choice....
+* Welcome to the Virtual Assembly chat!
+
+
+-------
+   
+
+# Tutoriel version longue (fr) (non mis à jour)
+**Introduction**
+
+**Matrix** héberge désormais les discussions de la communauté de l'Assemblée Virtuelle, en remplacement de Slack. Un serveur Matrix est auto-hébergé sur le serveur de l'association, et répond au nom de domaine **matrix.virtual-assembly.org**.
+
+Le principe de Matrix repose sur une juxtaposition de « salons », répartis sur une *fédération de serveurs* et qui sont tous indépendants les uns des autres (et non hiérarchisés). Ces salons peuvent être regroupés au sein de **communautés**[^1] (*groupes*) qui agissent comme des filtres sur l'ensemble des salons de la fédération Matrix. Un salon peut appartenir à plusieurs communautés. A chaque communauté correspond au moins un salon. Par convention, nous donnons à celui-ci le même nom que la communauté correspondante.
+
+Ainsi existe une communauté **General**, qui comprend à ce jour deux salons : *General* et *Reception*.
+
+**Outils d'accès aux salons**
+
+Pour accéder aux conversations de la fédération Matrix (et plus particulièrement dans notre cas de l'Assemblée Virtuelle) vous devez choisir un logiciel client, dont il existe une liste accessible sur cette page : [Matrix clients]. Pour notre part, nous recommandons [Riot] qui est disponible à la fois comme application de bureau, application web et application mobile. C'est actuellement l'application la plus mature pour accéder à Matrix.
+
+*Dans la suite du document, nous parlerons uniquement de Riot. Les autres clients ne sont pas documentés ici pour l'instant.*
+
+* Si vous utilisez l'interface web de Riot, rendez-vous à l'adresse suivante :
+[Communauté Assemblée Virtuelle]. Vous arriverez alors sur une page présentant les salons de la communauté **General**.
+* Pour télécharger l'application de bureau, c'est ici : [Télécharger Riot]
+* Si vous préféreez l'application mobile, rendez vous sur le store iOS ou Android
+
+Pour pouvoir accéder aux discussions de la communauté, il est nécessaire d'avoir un compte sur **Matrix**, peu importe le serveur sur lequel vous êtes inscrit. Attention, toutefois, votre expérience utilisateur pourrait être différente en fonction de votre compte (cf. Configuration)
+
+**Création de compte**
+
+Lorsque vous ouvrez votre client et que vous voulez rejoindre une communauté ou accéder à un salon, il vous est demandé de créer un compte, à moins que vous ne soyez déjà inscrit quelque part sur le réseau Matrix.
+
+Toutefois, avoir un compte sur le serveur **matrix.virtual-assembly.org** vous offira plus de confort dans l'utilisation des salons, et en premier lieu améliorera les fonctions de navigation, de recherche et de découverte.
+
+La première chose à vérifier pour créer un compte sur notre serveur, c'est que vous êtes connu de l'équipe sysadmin de l'Assemblée. Si vous étiez sur Slack, ou que vous êtes de puis longtemps au contact de l'Assemblée, il est probable que ce soit le cas. Sinon, adressez-vous à quelqu'un de l'Assemblée que vous connaissez, afin qu'il avertisse l'équipe sysadmin que vous êtes autorisé à avoir accès aux salons de l'Assemblée Virtuelle[^2]. Vous recevrez très rapidement une notification pour créer votre compte.
+
+Suivant la page sur laquelle vous êtes, vous pouvez voir deux invitations différentes. La différence entre « **Rejoindre la communauté** » et « **Rejoindre le salon** » est que, dans le premier cas, vous verrez apparaître l'icône de la communauté dans la colonne latérale à l'extrême gauche de la fenêtre. Vous pouvez faire partie d'autant de communautés que vous le souhaitez et celles-ci vous sépareront visuellement les salons selon différents domaines d'intérêt.
+
+Pour le reste, la procédure d'inscription est la même dans les deux cas.
+
+> **Attention** : sur l'interface web, vous verrez apparaître une fenêtre « pop-up » ; cliquez alors sur « *sélectionner un autre serveur* »
+
+**Pour créer un compte, remplissez le formulaire ainsi :**
+* Indiquer votre adresse électronique^[Si vous déjà étiez inscrit sur Slack, veillez à reprendre l'adresse électronique que vous y utilisez. Autrement, utilisez l'adresse électronique pris en compte par l'équipe sysadmin de l’Assemblée.], mais ... 
+* **... ne remplissez pas le champ Téléphone** (ceci empêcherait votre compte de fonctionner correctement).
+* Choisissez un pseudonyme et un mot de passe
+* Avant de cliquer sur **S'inscrire** :
+    * Vous devez choisir le serveur qui hébergera votre compte ->
+        * Le **Serveur par défaut** est sur le domaine https://matrix.org
+        * Ou le **Serveur personnalisé**, celui de l'Assemblée Virtuelle (nous vous conseillons fortement de choisir cette option).
+* Pour l'URL du service d'accueil, indiquez : https://matrix.virtual-assembly.org
+    * Pour l'URL du serveur d'identité, laissez la valeur par défaut : https://vector.im
+    * Choisissez la langue de l'interface
+* **Vous pouvez maintenant cliquer sur S'inscrire** !
+
+Remplir le formulaire en donnant votre adresse électronique indique votre appartenance (ou non) à l'Assemblée Virtuelle (les adresses ont été reprises depuis Slack).
+
+Une fois connecté, vous pouvez rejoindre les différents salons, dont les icônes s'ajouteront dans la colonne de gauche et que vous pouvez ensuite trier par priorité.
+
+Les identifiants des salons et des communautés sont normalisés comme suit :
+
+
+| salon        | #{nom du salon}:{serveur de chat}          |
+|--------------|--------------------------------------------|
+| communauté   | +{nom de la communauté}:{serveur de chat}  |
+
+
+Ainsi le salon **Ontologies** a pour identifiant :
+Exemple : #ontologies:matrix.virtual-assembly.org 
+
+Pour y accéder depuis le web, il faut ajouter le radical
+**https://riot.im/app/#** suivi de **/group** ou **/room** selon les cas.
+https://riot.im/app/#/room/#ontologies:matrix.virtual-assembly.org
+
+**Interface**
+
+**Barre d'Outils**
+
+En bas à gauche de la fenêtre de Riot, vous trouvez une barre d'outils qui vous permet, de gauche à droite
+
+![Barre d'outils](Riot_Tools1.png "Outils")
+
+- Ajouter une communauté à la liste existante
+- Revenir sur la page d'accueil de Riot
+- Entamer une discussion personnelle avec une personne[^4]
+- Afficher le répertoire des salons
+- Créer un nouveau salon
+- Paramètres de votre profil personnel
+
+> **Attention** : Le répertoire des salons que vous voyez dépend du serveur Matrix sur lequel vous avez votre compte. Si c'est sur l'instance de l'Assemblée Virtuelle, tout ira bien, sinon vous verrez la liste des salons de matrix.org, ce qui ne vous sera pas d'une grande utilité, d'autant que vous ne pourrez pas faire de recherche.
+
+**Utilisation**
+
+**Mentions**
+- Pour mentionner une personne dans une conversation, insérez l'annotation "@pseudo_de_la_personne" (comme dans Slack)
+- Vous pouvez mentionner toutes les personnes inscrites sur le salon avec l'annotation "@room".
+- Vous pouvez mentionner un (autre) salon dans une conversation en faisant précéder son nom d'un croisillon "#".
+- Vous pouvez faire mention d'un communauté dans une conversation en préfixant son nom avec le signe “+”.
+
+**Bonnes pratiques**
+
+1. Ne laissez pas votre avatar vide, et mettez une image facilement discernable.
+
+**Notes**
+1. « communauté » est le terme utilisé par Riot, alors que Matrix définit des « groupes »
+1. La procédure doit encore être validée
+1. Si vous déjà étiez inscrit sur Slack, veillez à reprendre l'adresse électronique que vous y utilisez.
+1. L'équivalent des messages directs de Slack.
+
+
+
+[Communauté Assemblée Virtuelle]: <https://riot.im/app/#/group/+general:matrix.virtual-assembly.org>
+"Page d'accueil de la communauté Assemblée Virtuelle"
+
+[Matrix clients]: <https://matrix.org/docs/guides/faq.html#usage>
+"Introduction to common Matrix clients"
+
+[Riot]: <https://riot.im/>
+"Riot - recommended Matrix client"
+
+[Télécharger Riot]: <https://about.riot.im/downloads/>
+"Téléchargement de l'application Riot"
+
+[Reception]: <https://matrix.to/#/!JQkKPpdjWWQjaeABiV:matrix.virtual-assembly.org>
+"Reception - our room to chat with visitors"
