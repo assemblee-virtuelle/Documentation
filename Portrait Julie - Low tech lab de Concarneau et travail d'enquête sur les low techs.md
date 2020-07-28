@@ -1,8 +1,8 @@
-#Portrait Julie - Low tech lab de Concarneau et travail d'enquête sur les low techs 
+# Portrait Julie - Low tech lab de Concarneau et travail d'enquête sur les low techs 
 
 [Site du Low tech lab](https://lowtechlab.org)
 
-##Échange avec Julie  
+## Échange avec Julie  
 
 À l'origine, le projet était de mener une enquête de terrain itinérante sur le thème des low techs. Quentin, Julien, Julie, Amandine, Romane, Virginie souhaitaient parcourir l'Afrique 
 à bord d'une voiture innovante, construite à partir de matériaux recyclés (jute) et alimentée grâce à des carburants alternatifs (plastique fondu). Cependant, en vue du contexte récent de pandémie,
