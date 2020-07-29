@@ -1,6 +1,6 @@
 # Portrait Julie - Low tech lab de Concarneau et travail d'enquête sur les low techs 
 
-[Site du Low tech lab](https://lowtechlab.org) 
+[Site du Low tech Lab](https://lowtechlab.org) 
 
 PHOTO À INSÉRER 
 
