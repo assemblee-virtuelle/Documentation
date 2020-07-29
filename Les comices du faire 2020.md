@@ -2,11 +2,9 @@
 
 ## Qu'est-ce que les comices du faire ? 
 
-INCLURE MINI ITW "c'est quoi pour toi les comices ?"
-
 ![Affiche des comices 2020](https://movilab.org/images/movilab/4/45/Comices2020_copie.jpg) 
 
-
+INCLURE MINI ITW "c'est quoi pour toi les comices ?"
 
 ## Portrait Julie - Low tech lab de Concarneau et travail d'enquête sur les low techs 
 
