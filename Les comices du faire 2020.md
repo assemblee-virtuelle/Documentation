@@ -23,7 +23,7 @@ Fascinée par l'énergie et portée par un désir de s'impliquer dans la transit
 Le projet est né au sein du Low tech Lab, et consistait initialement à mener une enquête de terrain itinérante sur le thème des low tech. Toute une méthodologie a été constituée entre membres du Lab, dans le but de parcourir l'Afrique et ses lieux inspirants en termes de technologies utiles, durables et accessibles, tout cela à bord d'une voiture construite à partir de jute et alimentée grâce à des carburants alternatifs (plastique fondu). Cependant, en vue du contexte récent de pandémie, ils ont choisi de s'intéresser aux initiatives présentes sur le territoire français, avant de pouvoir initier cette démarche sur le continent africain. 
 Ils ont donc proposé à toute personne intéressée par leur projet de partager des lieux et acteurs jugés intéressants à rencontrer dans le cadre de leur projet. Le cercle d'enquêteur s'est donc élargi au-delà de l'association, et compte aujourd'hui 6 membres : Quentin, Julien, Julie, Amandine, Romane, et Virginie.
 
-Ainsi, ++ils s'appuyèrent sur le constat suivant++ : la low tech est bel et bien présente en France, mais reste aux mains d'un petit nombre de bricoleurs, 
+Ainsi, +ils s'appuyèrent sur le constat suivant+ : la low tech est bel et bien présente en France, mais reste aux mains d'un petit nombre de bricoleurs, 
 bénéficiant souvent de formations techniques leur permettant d'adopter un mode de vie plus autonome et respectueux de l'environnement. Cependant, si la low tech n'est que le fruit d'initiatives individuelles, n'ayant pas pour vocation à profiter à un public plus large, cela signifierait que ces technologies 
 et savoir-faire auraient pour finalité l'autarcie. 
 
@@ -37,4 +37,4 @@ Pour Julie, **bénéficier d'un panel d'acteurs divers est essentiel car il perm
 
 Durant leurs différentes escales, approches, rencontres, observations, visites, immersion, phases de recul, entretiens ou encore phases d'écriture et d'analyse ont rythmé leur travail. Quentin, Julien, Julie, Amandine, Romane, et Virginie ont tenté également de **saisir l'imaginaire et les valeurs de ces porteurs de changement, afin de transmettre leur vision du monde, l'organisation de leur quotidien et de leur activité professionnelle.** En diffusant les données collectées lors de l'enquête, l'idéal serait de montrer qu'un changement de cap de la société est possible et que chacun est capable d'y contribuer aisément en s'inspirant des connaissances et savoir-faire partagés par les structures rencontrées. Pour Julie, il faut démystifier les sciences en montrant qu'elles peuvent s'apprendre et s'utiliser simplement.
 
-hello[vert=#26B260]texte coloré en vert[/vert] 
+
