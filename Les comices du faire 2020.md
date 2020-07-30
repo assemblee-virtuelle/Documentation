@@ -28,10 +28,10 @@ bénéficiant souvent de formations techniques leur permettant d'adopter un mode
 et savoir-faire auraient pour finalité l'autarcie. 
 
 Cette enquête a donc pour objectif de légitimer l'utilité, la durabilité et l'accessibilité des "basses technologies" à une échelle plus systémique. Julie et ses coéquipiers se demandèrent donc **comment concevoir, produire et utiliser les low tech à l'échelle du territoire ?**, en allant à la rencontre de personnes et structures pensant la low tech à plus grande échelle. Plusieurs questions émanent de cette problématique : 
-- Comment transférer ces connaissances à l'échelle territoriale ?
-- Comment rester cohérent avec le caractère durable de la low tech ? Si on change d'échelle, est ce qu'on peut toujours avoir des matériaux locaux, de récupération...
-- Comment adapter ces technologies et savoir-faire à un public divers, à une diversité de valeurs ? Comment suffisamment informer les individus pour qu'ils puissent avoir un bon usage de ces innovations, et qu'ils soient en mesure de les réparer si besoin ? Et comment faire changer le rapport à la technologie en prouvant qu'elle peut être accessible à tous ? 
-- Quels modèles économiques adopter pour organiser et rémunérer ces foyers de transmission des low techs ? (Par la formation ? la production massive ?) 
+* Comment transférer ces connaissances à l'échelle territoriale ?
+* Comment rester cohérent avec le caractère durable de la low tech ? Si on change d'échelle, est ce qu'on peut toujours avoir des matériaux locaux, de récupération...
+* Comment adapter ces technologies et savoir-faire à un public divers, à une diversité de valeurs ? Comment suffisamment informer les individus pour qu'ils puissent avoir un bon usage de ces innovations[color=#26B260]texte coloré en vert[/color], et qu'ils soient en mesure de les réparer si besoin ? Et comment faire changer le rapport à la technologie en prouvant qu'elle peut être accessible à tous ? 
+* Quels modèles économiques adopter pour organiser et rémunérer ces foyers de transmission des low techs ? (Par la formation ? la production massive ?) 
 
 Pour Julie, **bénéficier d'un panel d'acteurs divers est essentiel car il permet de représenter la diversité des réponses aux questions énoncées précédemment, et donc de satisfaire les sensibilités de chacun**. En effet, certaines structures insisteront sur la gouvernance, l'horizontalité et le bien-être de leurs membres, tandis que d'autres préféreront apporter des solutions plus techniques (R&D). Les enquêteurs ont choisi de ne plus uniquement porter leur étude sur la technologie mais aussi sur les modes de vie, les usages...etc, ce qui permet de donner une dimension systémique aux résultats de l'enquête (leur première escale s'est déroulée à territoires en commun par exemple). 
 
