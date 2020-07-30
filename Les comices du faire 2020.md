@@ -37,4 +37,18 @@ Pour Julie, **bénéficier d'un panel d'acteurs divers est essentiel car il perm
 
 Durant leurs différentes escales, approches, rencontres, observations, visites, immersion, phases de recul, entretiens ou encore phases d'écriture et d'analyse ont rythmé leur travail. Quentin, Julien, Julie, Amandine, Romane, et Virginie ont tenté également de **saisir l'imaginaire et les valeurs de ces porteurs de changement, afin de transmettre leur vision du monde, l'organisation de leur quotidien et de leur activité professionnelle.** En diffusant les données collectées lors de l'enquête, l'idéal serait de montrer qu'un changement de cap de la société est possible et que chacun est capable d'y contribuer aisément en s'inspirant des connaissances et savoir-faire partagés par les structures rencontrées. Pour Julie, il faut démystifier les sciences en montrant qu'elles peuvent s'apprendre et s'utiliser simplement.
 
+## Portrait Guénolé - Programme Nomades des mers et Low tech Explorer - Low tech Lab de Concarneau 
+
+PHOTO À INSÉRER
+
+### Qui est Guénolé ?
+
+Après des études d'ingénieur spécialisées dans le milieu marin, il s'engage auprès d'une ONG au Nicaragua pendant 1 an et demi. Sur place, il forme les populations à la conception et l'utilisation de systèmes low tech, outils appréciés par ces structures associatives. En effet, certains territoires rencontrent des contraintes auxquelles nous ne sommes pas confrontés (comme un accès difficile à l'eau par exemple), ce qui les poussent à innover pour répondre à leurs besoins de bases à l'aide de ressources locales : tout l'objectif des "basses technologies". À son retour, il embarque donc dans le programme Nomades des mers, au sein du Low tech Lab de Concarneau, qu'il n'a pas quitté depuis 2 ans. 
+
+### Programme Nomades des mers et Low tech Explorer - Low tech Lab de Concarneau
+
+
+
+
+
 
