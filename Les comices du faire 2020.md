@@ -37,4 +37,4 @@ Pour Julie, **bénéficier d'un panel d'acteurs divers est essentiel car il perm
 
 Durant leurs différentes escales, approches, rencontres, observations, visites, immersion, phases de recul, entretiens ou encore phases d'écriture et d'analyse ont rythmé leur travail. Quentin, Julien, Julie, Amandine, Romane, et Virginie ont tenté également de **saisir l'imaginaire et les valeurs de ces porteurs de changement, afin de transmettre leur vision du monde, l'organisation de leur quotidien et de leur activité professionnelle.** En diffusant les données collectées lors de l'enquête, l'idéal serait de montrer qu'un changement de cap de la société est possible et que chacun est capable d'y contribuer aisément en s'inspirant des connaissances et savoir-faire partagés par les structures rencontrées. Pour Julie, il faut démystifier les sciences en montrant qu'elles peuvent s'apprendre et s'utiliser simplement.
 
-hello[color=#26B260]texte coloré en vert[/color] 
+hello[vert=#26B260]texte coloré en vert[/vert] 
