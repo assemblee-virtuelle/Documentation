@@ -8,12 +8,6 @@ Depuis 4 ans maintenant, l'atelier Z accueille les comices du faire, un évènem
 
 INCLURE MINI ITW "c'est quoi pour toi les comices ?"
 
-## Compte rendu Low tech lab 
-
-1. informations :
-2. actions : 
-3. décisions : 
-
 ## Portrait Julie - Low tech lab de Concarneau et travail d'enquête sur les low techs 
 
 [Site du Low tech Lab](https://lowtechlab.org) 
