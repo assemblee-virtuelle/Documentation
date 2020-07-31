@@ -43,9 +43,20 @@ PHOTO À INSÉRER
 
 ### Qui est Guénolé ?
 
-Après des études d'ingénieur spécialisées dans le milieu marin, il s'engage auprès d'une ONG au Nicaragua pendant 1 an et demi. Sur place, il forme les populations à la conception et l'utilisation de systèmes low tech, outils appréciés par ces structures associatives. En effet, certains territoires rencontrent des contraintes auxquelles nous ne sommes pas confrontés (comme un accès difficile à l'eau par exemple), ce qui les poussent à innover pour répondre à leurs besoins de bases à l'aide de ressources locales : tout l'objectif des "basses technologies". À son retour, il embarque donc dans le programme Nomades des mers, au sein du Low tech Lab de Concarneau, qu'il n'a pas quitté depuis 2 ans. 
+Après des études d'ingénieur spécialisées dans le milieu marin, il s'engage auprès d'une ONG au Nicaragua pendant 1 an et demi. Sur place, il forme les populations à la conception et l'utilisation de systèmes low tech, outils pertinents pour pallier à des problématiques territoriales. En effet, certaines populations rencontrent des contraintes auxquelles nous ne sommes pas confrontés (comme un accès difficile à l'eau par exemple), ce qui les poussent à innover pour répondre localement à leurs besoins de base. À son retour, il embarque donc dans le programme Nomades des mers, au sein du Low tech Lab de Concarneau, qu'il n'a pas quitté depuis 2 ans. 
 
 ### Programme Nomades des mers et Low tech Explorer - Low tech Lab de Concarneau
+
+Suite à une expédition à bord du Gold of Bengal, un voilier composé à 100% de jute et autonome, l’intérêt des technologies respectueuses de l’Homme et de l’environnement fait naitre le Low tech Lab et son programme Nomade des Mers. En 2016, cette expédition est lancée dans le but de faire un **tour du monde des innovations low tech, afin de pouvoir les apprendre, les reproduire et enfin les diffuser au plus grand nombre**. L’objectif consiste à documenter ces savoirs-faire, et à les transformer en tutoriels mis à disposition sur le site du Lab, en open source. Il est intéressant de visibiliser ces innovations car cela permettrait à n’importe qui de les reproduire avec les ressources dont il dispose, ce qui en génèrerait des nouvelles. Les low tech existent depuis bien plus longtemps qu'on ne le pense, ce terme étant encore trop méconnu. Elles s'inspirent souvent de savoirs-faire traditionnels, qu'elles s'appliquent à améliorer et adapter à nos sociétés contemporaines.
+
+En amont, le travail de Guénolé consiste à trouver toutes ces personnes forces d’innovation accessibles et durables, qu’il répertorie au sein d’une **cartographie des low tech**. À terme, cette dernière permettrait aux personnes de voir : 
+*	s’il y a des initiatives autour de chez eux qui leur permettraient de s’équiper en systèmes low tech 
+*	si certains lieux produisent et vendent leurs innovations 
+*	si des formations ou des tutoriels existent pour que chacun puisse reproduire ces technologies
+Selon lui, il serait donc intéressant de fusionner cette cartographie avec d’autres type Transiscope afin d’élargir le champ des possibles. 
+
+Trouver des solutions techniques aux problématiques territoriales est une chose, mais Guénolé insiste aussi sur l’**importance de jouer sur l’imaginaire pour attirer le grand public**. Nomade des Mers fait donc l’objet de documentaires Arte et Brut, ce qui permet à des millions de personnes de s’évader dans cette aventure tout en renouant avec la technologie. Pour alimenter des personnes et projets au delà des tutoriels, le Lab a créé un programme intitulé Low tech Explorer qui consiste à guider et outiller des personnes qui voudraient voyager pour aussi rencontrer des acteurs de la low tech (// Chemins de la transition). 
+
 
 
 
