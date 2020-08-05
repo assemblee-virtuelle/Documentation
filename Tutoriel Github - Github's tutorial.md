@@ -1,7 +1,4 @@
-:::danger
-# Mode d'emploi Github / Github's user guide
-:::
-[TOC]
+# Mode d'emploi Github / Github's user guide <span class="bg-info text-success">texte coloré en vert sur fond bleu</span>
 
 ## En Français
 
