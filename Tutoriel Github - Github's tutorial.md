@@ -24,7 +24,7 @@ Lorsque vous arrivez sur la page d'accueil, vous trouverez un accès aux différ
 
 ![](https://pad.lescommuns.org/uploads/upload_5813a5b0ea46fa97c5d060746e4ca82e.png)
 
-Si vous cliquer par exemple sur un projet/repository, vous accéder à une page comme ci-dessous : 
+Si vous cliquez par exemple sur un projet/repository, vous accédez à une page comme ci-dessous : 
 
 ![](https://pad.lescommuns.org/uploads/upload_ff3d1a92a681008c33b14acc432411fe.png)
 
@@ -38,19 +38,21 @@ Avant de cliquer sur "commit changes" afin d'ajouter votre nouveau fichier ou de
 **_Attention_** : Github utilise un language de balisage appelé Markdown, dont il faut connaitre certains raccourcis afin d'apporter la syntaxe nécessaire à votre fichier (gras, italique...). **Lorsque que vous créez un nouveau fichier, veillez à ajouter ".md" à la suite du titre**. ==> Voici le lien vers un [tutoriel rapide pour rédiger en Markdown ](https://guides.github.com/features/mastering-markdown/) proposé par Github 
 
 
-* La **_rubrique Issues_** permet à tous les contributeurs de soumettre leurs propositions/idées qui pourraient être intéressantes pour nourrir le projet. Libre à vous d'en créer une nouvelle en cliquant sur "new issue", et de la commenter si vous souhaitez y apporter des précisions. Sur la droite de l'écran vous trouverez les options suivantes : 
+* La **_rubrique Issues_** permet à tous les contributeurs de soumettre leurs propositions/idées qui pourraient être intéressantes pour nourrir le projet. Libre à vous d'en créer une nouvelle en cliquant sur "new issue", et de la commenter si vous souhaitez y apporter des précisions. 
+
+Sur la droite de l'écran (seulement lorsque vous êtes identifiés comme membre / contributeur du projet), vous trouverez les options suivantes : 
 
 ![](https://pad.lescommuns.org/uploads/upload_63d8413d1ff5b43588a16bf3f179013a.png)
 
   - "Assignees" vous permet d'attribuer cette issue aux personnes concernées
   - "Labels" vous permet d'assigner les étiquettes concernées par votre issue (par exemple, si vous souhaitez signaler quelconque dysfonctionnement sur le site de l'AV, vous pouvez ajouter le label "bug")
-  - "Projects" vous permet de faire passer votre issue au sein du projet lorsque celle-ci est jugée pertinente. Vous pouvez préciser si elle est à faire, en cours, à valider, ou finie. 
+  - "Projects" vous permet de faire passer votre issue au sein de l'outil de gestion du projet lorsque celle-ci est jugée pertinente. Vous pouvez préciser si elle est à faire, en cours, à valider, ou finie. 
 
 * La **_rubrique Projets_** est directement liée aux issues, telle qu'elle correspond à la mise en application des propositions. En effet, les contributeurs actifs créent un projet, et choisissent d'y ajouter ou pas les propositions formulées dans les issues. Lorsque vous cliquez sur un projet, la page suivante apparait : 
 
 ![](https://pad.lescommuns.org/uploads/upload_3515d43fadf06ebd5de079c45065f9f3.png)
 
-Vous trouverez les étapes suivantes : To do/à faire ; In progress/en cours ; Done/Finie sous condition d'être validée. À vous de déplacer les cartes en fonction des avancées de votre issue. 
+Vous trouverez par exemple les les colonnes suivantes : To do/à faire ; In progress/en cours ; Done/Finie sous condition d'être validée. À vous de déplacer les cartes en fonction des avancées de votre issue. 
 Les "+" en haut de chaque colonne vous permettent d'ajouter de nouvelles issues. 
 
 ## In English 
