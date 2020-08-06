@@ -8,7 +8,10 @@ Afin de suivre au plus près les avancées des projets de l'Assemblée Virtuelle
 Voici un tutoriel qui vous permettra de rentrer dans l'aventure sans trop de difficultés 
 
 À l'origine, Github est une plateforme basée sur un cloud, permettant la gestion et le suivi de projets logiciels. En effet, elle facilite la collaboration de développeurs sur un même code, qui sera stocké et évoluera selon les modifications que chacun lui apportera. 
-Fonctionnant en open source, Github devient alors un outil intéressant de gestion de projets collaboratifs comme les nôtres, car il permet à tout adhérent de s'y impliquer et de suivre les évolutions apportées en temps et en heure. 
+Github devient alors un outil pertinent de gestion de projets open source comme les nôtres, car il permet à tout adhérent de s'y impliquer et de suivre les évolutions apportées en temps et en heure. 
+
+Attention, Github n'est pas open-source, il a par ailleurs été racheté par Microsoft l'année dernière ;)
+En revanche Github permet la production et la gestion de projets open source comme les notres ;)
 
 ### Comment s'y inscrire ?
 
