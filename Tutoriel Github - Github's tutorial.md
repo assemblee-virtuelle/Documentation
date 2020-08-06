@@ -11,9 +11,6 @@ Voici un tutoriel qui vous permettra de rentrer dans l'aventure sans trop de dif
 Github devient alors un outil pertinent de gestion de projets open source comme les nôtres, car il permet à tout adhérent de s'y impliquer et de suivre les évolutions apportées en temps et en heure. 
 **Pour aller plus loin**: En fait, github est une interface pour [GIT](https://git-scm.com/docs/gittutorial) qui s'éxécute uniquement en ligne de commande (pour les développeurs donc!)
 
-Github est une plateforme à usage commerciale qui a été racheté par Microsoft l'année dernière ;)
-En revanche Github permet la production et la gestion de projets open source comme les notres ;)
-
 ### Comment s'y inscrire ?
 
 C'est très simple ! 
