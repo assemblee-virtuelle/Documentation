@@ -1,4 +1,4 @@
-# Accéder au Google drive
+# Accéder au Google drive de l'Assemblée Virtuelle
 
 Fraichement contributeur, contributrice ? 
 Tout d'abord nous vous souhaitons la bienvenue :) 
