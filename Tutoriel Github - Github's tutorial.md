@@ -4,13 +4,14 @@
 
 Fraichement contributeur, contributrice ? 
 Tout d'abord nous vous souhaitons la bienvenue :) 
-Afin de suivre au plus près les avancées des projets de l'Assemblée Virtuelle/des Chemins de la Transition et de participer à la vie de notre communauté, quoi de mieux que de vous familiariser avec les outils prévus à cet effet ! 
+Afin de suivre au plus près les avancées des projets de l'Assemblée Virtuelle et de participer à la vie de notre communauté, quoi de mieux que de vous familiariser avec les outils prévus à cet effet ! 
 Voici un tutoriel qui vous permettra de rentrer dans l'aventure sans trop de difficultés 
 
-À l'origine, Github est une plateforme basée sur un cloud, permettant la gestion et le suivi de projets logiciels. En effet, elle facilite la collaboration de développeurs sur un même code, qui sera stocké et évoluera selon les modifications que chacun lui apportera. 
+À l'origine, Github est une plateforme basée sur un cloud, permettant le développement de projets logiciels, elle facilite la collaboration de développeurs sur un même code, qui sera stocké et évoluera selon les modifications que chacun lui apportera. 
 Github devient alors un outil pertinent de gestion de projets open source comme les nôtres, car il permet à tout adhérent de s'y impliquer et de suivre les évolutions apportées en temps et en heure. 
+**Pour aller plus loin**: En fait, github est une interface pour [GIT](https://git-scm.com/docs/gittutorial) qui s'éxécute uniquement en ligne de commande (pour les développeurs donc!)
 
-Attention, Github n'est pas open-source, il a par ailleurs été racheté par Microsoft l'année dernière ;)
+Github est une plateforme à usage commerciale qui a été racheté par Microsoft l'année dernière ;)
 En revanche Github permet la production et la gestion de projets open source comme les notres ;)
 
 ### Comment s'y inscrire ?
