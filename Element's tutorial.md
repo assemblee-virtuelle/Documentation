@@ -14,7 +14,7 @@ But we also recommend that you download the mobile application ![](https://pad.l
 
 ## Sign up by using the AV's personal server (RECOMMENDED)
 
-1. Previously ask someone from the VA to enter your email in the database, via Jonas
+1. First of all, you need to ask someone from the VA to enter your email address in the database, via Jonas
 2. Click on the "Advanced" block then replace the custom server URL by : https://matrix.virtual-assembly.org. Then, click on "next".                               ![](https://pad.lescommuns.org/uploads/upload_70ee85dc3778614ba64ff2059130f942.png)
 3. Enter your personal information (email address, password, username)
 4. Press the "Register" button and it's done. You will receive an email, which will allow you to confirm your registration.
