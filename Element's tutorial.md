@@ -2,10 +2,9 @@
 
 Element is a "decentralized instant messaging software based on the Matrix protocol". Basically, this tool allows you to communicate securely, with people using other applications, in open source, and without data mining. 
 
-This means of communication brings together the Virtual Assembly, the Paths of Transition and Transiscope's communities. It allows any contributor to express himself freely on the projects carried out, to be informed of the various meetings planned or to participate in decision-making. 
+This means of communication brings together the Virtual Assembly and the Paths of Transition's communities. It allows any contributor to express himself freely on the projects carried out, to be informed of the various meetings planned or to participate in decision-making. 
 These communities are therefore divided into different chats related to topics. 
-
-Registration is a little complex but let's go !
+By the way, you can meet the Transiscope community here : https://chat.lescommuns.org/channel/transiscope-accueil 
 
 Firstly, Element can be used directly on your browser : https://app.element.io/?pk_vid=3967c7bf75ff37e81596549874c37b51#/welcome 
 
@@ -25,8 +24,7 @@ But we also recommend that you download the mobile application ![](https://pad.l
 
 ## Sign up by using the Matrix public server 
 
-1. Previously, ask someone from the VA to enter your email in the database, via Jonas
-2. Click on the "Free" block then fill in your personal information (email address, password, username)![](https://pad.lescommuns.org/uploads/upload_2b0d1d0909ed85fbb90770599a6b60fd.png)
+1. Click on the "Free" block then fill in your personal information (email address, password, username)![](https://pad.lescommuns.org/uploads/upload_2b0d1d0909ed85fbb90770599a6b60fd.png)
 3. Press the "Register" button and it's done. You will receive an email, which will allow you to confirm your registration.
 6. Ask a member of the VA to invite you to the different chats you are interested in. 
 7. Log in with your identifiers, and don't forget to choose the "Free" block everytime
