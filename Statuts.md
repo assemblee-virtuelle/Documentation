@@ -1,3 +1,5 @@
+*Statuts de l'association des Chemins de la Transition, déposés au 31 décembre 2018.*
+
 # TITRE 1 : PRÉSENTATION DE L’ASSOCIATION
 ## Article 1 : Dénomination
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : Association Assemblée Virtuelle.
