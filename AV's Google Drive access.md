@@ -2,6 +2,6 @@
 
 New contributor ? 
 First of all, welcome :)
-For more transparency in the management of projects or the life of communities, the Virtual Assembly make sure to share with its contributors all the documents related to its activities.
+For more transparency in the management of projects or the life of communities, the Virtual Assembly make sure to share with its most devoted contributors all the documents related to its activities.
 
-Thus, if you have a google account, you can access the [drive of the VA/CDLT](https://drive.google.com/drive/folders/0By8nyiKT594tc2FaaHFPaFlfNk0?usp=sharing). You will find their different projects, the membership circles, their social code (very important to understand VA's values), and even their bills (if you're a curious one).
+Thus, if you are a member of the Virtual Assembly or the Paths of Transition (or both), you can access a Google Drive as long as an active contributor authorizes you to do so. You will find there the different projects more or less related to the VA/TPOT, their circles of members, their social code (to get a better sense of the values they stand for) or their bills (if you are a little curious).
