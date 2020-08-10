@@ -26,4 +26,4 @@ You want to actively contribute to the Virtual Assembly projects, but can't bear
    - And finally on "Delete the message"![](https://pad.lescommuns.org/uploads/upload_e7abcc6d2f7624fbf61daccab63d03c5.png)
    - Click on "OK" in the top left corner of the window and your rule will be saved.
    
-From now on, it's up to you to use this rule creation tool to organize your mailbox as you wish!!
+From now on, it's up to you to use this rule creation tool to organize your mailbox as you wish!
