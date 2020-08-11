@@ -1,10 +1,10 @@
 # Tutoriel : Comment rediriger les mails de sa boite pro OVH/Outlook vers sa boite perso ?
 
-Vous souhaitez contribuer activement aux projets de l'Assemblée Virtuelle, mais ne supportez pas de vous perdre entre différentes boites mails ? Ce tutoriel est pour vous ! 
+Vous êtes en train de devenir un membre (hyper-)actif de l'Assemblée Virtuelle, mais ne supportez pas de vous perdre entre différentes boites mails ? Ce tutoriel est fait pour vous ! 
 
 1. En amont, assurez-vous qu'un membre de l'Assemblée Virtuelle s'occupe de vous créer une adresse mail professionnelle (...@virtual-assembly.org)
 2. Une fois l'adresse mail créée, accédez au [portail suivant](mail.ovh.net) et connectez-vous avec vos identifiants
-3. Vous accéder à votre boite mail Outlook. Cliquez sur le bouton réglages en haut à droite de la fenêtre, puis sur "Options".
+3. Vous accédez à votre boite mail Outlook. Cliquez sur le bouton réglages en haut à droite de la fenêtre, puis sur "Options".
 
 ![](https://pad.lescommuns.org/uploads/upload_52237f586331883fbf225993f878ac61.png)
 
