@@ -57,8 +57,26 @@ Selon lui, il serait donc intéressant de fusionner cette cartographie avec d’
 
 Trouver des solutions techniques aux problématiques territoriales est une chose, mais Guénolé insiste aussi sur l’**importance de jouer sur l’imaginaire pour attirer le grand public**. Nomade des Mers fait donc l’objet de documentaires Arte et Brut, ce qui permet à des millions de personnes de s’évader dans cette aventure tout en renouant avec la technologie. Pour alimenter des personnes et projets au delà des tutoriels, le Lab a créé un programme intitulé Low tech Explorer qui consiste à guider et outiller des personnes qui voudraient voyager pour aussi rencontrer des acteurs de la low tech (// Chemins de la transition). 
 
+# Portrait de Sofía Valdiri - Point de suspensions
 
+[Site officiel de Point de suspensions](https://www.point-suspensions.org) 
 
+PHOTO À INSÉRER
+
+## Qui est Sophia ? 
+
+Sophia est originaire de Colombie. Elle étudiait dans une école francaise ce qui lui a permis de partir par la suite en France pour monter sa compagnie de théâtre _Point de suspensions_. Intéressée par les enjeux de la transition, elle vit actuellement dans une "éco-coloc" à Paris avec 9 autres personnes. 
+Ils sont dans une dynamique respecteuse de l'environnement (potager, composte..) et communautaire (ils ont un compte commun, partage les taches, l'alimentation..). 
+
+## Point de supensions
+
+Partant du constat que le théâtre est un environnement assez fermé, où l'on cherche la performance impliquant des moyens financiers de plus en plus importants, Sofía a monté Point de suspensions, une compagnie soucieuse de revenir à une expérience plus épurée de cet art. Dans une volonté de valoriser la diversité humaine en créant des synergies, ses projets mettent en scène des artistes issus de formations différentes, aux cultures diverses, et parfois en situation de handicap. 
+
+## Le Moulin Bleu 
+
+Colibris est une association engagée pour mettre en réseau des citoyens souhaitant changer leur mode de vie, soutenir leurs initiatives humaines et écologiques, et transmettre des connaissances et compétences propres aux enjeux de la transition. Le projet Oasis nait de ces ambitions, et consiste à réunir et visibiliser des éco-lieux français autour de projets répondant aux limites écologiques, humaines ou encore idéologiques des sociétés modernes. Sofía a participé à la rénovation du Moulin Bleu, une grande propriété dans le Loire-et-Cher acheté par la coopérative Colibris. Ce lieu réunit une quinzaine de personnes, projetant de mener un mode de vie résilient et alternatif, porteur d'une dynamique de transition à l'échelle locale. Pendant le confinement, ce groupe d'amis s'est installé dans le moulin afin d'entamer les travaux nécessaires. Non seulement ils entreprennent des cultures pour s'alimenter tout en étant autonome, mais ils projettent également de produire leur propre électricité, de mener des ateliers de travaux manuels, ou encore d'ouvrir un restaurant et des chambres d'hôtes.  
+
+Par ailleurs, un désir de transmettre les outils et connaissances nécessaires pour changer de mode de vie porte aussi le projet du Moulin Bleu. Pour se faire, ils rénovent entièrement l'ancien moulin afin d'en faire des salles de réunions capables d'accueillir différentes associations qui souhaiteraient travailler en lieu commun. Par exemple, Avenir Climatique est une association principalement composée d'ingénieurs, qui souhaitent sensibiliser des entreprises et élus aux enjeux de la Transition. Chaque été, ils animent leur propre université pour former différentes personnes à ces problématiques, ce que le Moulin Bleu s'engage à héberger. Le Moulin Bleu pourrait alors être un lieu intéressant à intégrer dans les parcours des Chemins de la Transition. 
 
 
 
