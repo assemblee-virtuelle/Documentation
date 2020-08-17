@@ -12,7 +12,7 @@ INCLURE MINI ITW "c'est quoi pour toi les comices ?"
 
 [Site du Low tech Lab](https://lowtechlab.org) 
 
-PHOTO À INSÉRER 
+![](https://pad.lescommuns.org/uploads/upload_55f3de6b0a29154a6fa23c8215152ef4.jpg)
 
 ### Qui est Julie ? 
 
@@ -39,7 +39,7 @@ Durant leurs différentes escales, approches, rencontres, observations, visites,
 
 ## Portrait Guénolé - Programme Nomades des mers et Low tech Explorer - Low tech Lab de Concarneau 
 
-PHOTO À INSÉRER
+![](https://pad.lescommuns.org/uploads/upload_3ff5f9fc8a176c13d356de5690cabb71.jpg)
 
 ### Qui est Guénolé ?
 
@@ -61,12 +61,12 @@ Trouver des solutions techniques aux problématiques territoriales est une chose
 
 [Site officiel de Point de suspensions](https://www.point-suspensions.org) 
 
-PHOTO À INSÉRER
+![](https://pad.lescommuns.org/uploads/upload_3ff5f9fc8a176c13d356de5690cabb71.jpg)
 
 ## Qui est Sophia ? 
 
 Sophia est originaire de Colombie. Elle étudiait dans une école francaise ce qui lui a permis de partir par la suite en France pour monter sa compagnie de théâtre _Point de suspensions_. Intéressée par les enjeux de la transition, elle vit actuellement dans une "éco-coloc" à Paris avec 9 autres personnes. 
-Ils sont dans une dynamique respecteuse de l'environnement (potager, composte..) et communautaire (ils ont un compte commun, partage les taches, l'alimentation..). 
+Ils sont dans une dynamique respecteuse de l'environnement (potager, composte..) et communautaire (ils ont un compte commun, partage les tâches quotidiennes, l'alimentation..). 
 
 ## Point de supensions
 
