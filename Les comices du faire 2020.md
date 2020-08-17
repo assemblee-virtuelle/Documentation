@@ -39,6 +39,8 @@ Durant leurs différentes escales, approches, rencontres, observations, visites,
 
 ## Portrait Guénolé - Programme Nomades des mers et Low tech Explorer - Low tech Lab de Concarneau 
 
+[Teaser série ARTE sur Nomades des mers](https://www.youtube.com/watch?v=4XVnaYGCkkU)
+
 ![](https://pad.lescommuns.org/uploads/upload_3ff5f9fc8a176c13d356de5690cabb71.jpg)
 
 ### Qui est Guénolé ?
