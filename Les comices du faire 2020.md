@@ -61,7 +61,7 @@ Trouver des solutions techniques aux problématiques territoriales est une chose
 
 [Site officiel de Point de suspensions](https://www.point-suspensions.org) 
 
-![](https://pad.lescommuns.org/uploads/upload_3ff5f9fc8a176c13d356de5690cabb71.jpg)
+![](https://pad.lescommuns.org/uploads/upload_e3b6d7bfc9a8ff1025b76aab34a83a4c.jpg)
 
 ## Qui est Sophia ? 
 
