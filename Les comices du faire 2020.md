@@ -6,7 +6,8 @@
 
 Depuis 4 ans maintenant, l'atelier Z accueille les comices du faire, un évènement rassemblant acteurs et projets autour des enjeux de la transition, qu'elle soit écologique, technologique, énergétique, ou encore sociale. Ateliers, présentations de projets, causeries, chantiers participatifs, projections et même concerts rythment ces deux semaines riches en échanges et initiatives concrètes. Faiseurs ou simples curieux sont libres de travailler, de discuter mais aussi de se détendre selon leurs envies. Les comices du faire servent finalement à créer des synergies entre différentes initiatives éparpillées sur le territoire, afin d'imaginer la transition à une échelle plus systémique. 
 
-INCLURE MINI ITW "c'est quoi pour toi les comices ?"
+#### Vidéo : Les comices du faire 2020
+Finalement, quoi de mieux que de présenter les comices à travers la voix de ses participants ? Voici une série de mini-interviews répondant à la question suivante : ["C'est quoi pour toi les comices ?"](https://youtu.be/I4tpzKPl0pg)
 
 ## Portrait Julie - Low tech lab de Concarneau et travail d'enquête sur les low techs 
 
