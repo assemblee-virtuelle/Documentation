@@ -59,12 +59,12 @@ The "+" at the top of each column allows you to add new cards.
 
 ![](https://pad.lescommuns.org/uploads/upload_e1e31f5ae1dc55c697b698b631e6ded2.png)
 
-**If you are the editor of the document and you want to modify it** : click on the last commit, then on the three small dots in the top right corner of the document, and finally on "edit file".
+**If you are the editor of the document and you want to modify it** : click on the last commit, then on the three small dots in the top right corner of the document, and finally on "Edit file".
 ![](https://pad.lescommuns.org/uploads/upload_a406622076f20f910c71bc6653ae608f.png)
 
-**If you are a reviewer of the document and want to add your comments on it**: In the "files changed" section, click on "review changes", write your comment while making sure to check the "comment" option, and then click on "submit request". Your comment will appear in the "Conversation" section in order to be processed by the document editor. 
+**If you are a reviewer of the document and want to add your comments on it**: In the "Files changed" section, click on "Review changes", write your comment while making sure to check the "Comment" option, and then click on "submit request". Your comment will appear in the "Conversation" section in order to be processed by the document editor. 
 ![](https://pad.lescommuns.org/uploads/upload_9a74b6ff89117f64f37c628b55f1410d.png)
 
-**If you consider that your document is complete, and that all the reviewers are satisfied with its final version** : you can click on "merge pull request" and then on "confirm merge" which will allow you to merge your file with the project. Then, you will find it in the "Code" section. 
+**If you consider that your document is complete, and that all the reviewers are satisfied with its final version** : you can click on "Merge pull request" and then on "Confirm merge" which will allow you to merge your file with the project. Then, you will find it in the "Code" section. 
 
 
