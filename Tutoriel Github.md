@@ -41,12 +41,12 @@ Avant de cliquer sur "commit changes" afin d'ajouter votre nouveau fichier ou de
 * La **_rubrique Issues_** permet à tous les contributeurs de soumettre leurs propositions/idées qui pourraient être intéressantes pour nourrir le projet. Libre à vous d'en créer une nouvelle en cliquant sur "new issue", et de la commenter si vous souhaitez y apporter des précisions. 
 
 Sur la droite de l'écran (seulement lorsque vous êtes identifiés comme membre / contributeur du projet), vous trouverez les options suivantes : 
-
-![](https://pad.lescommuns.org/uploads/upload_63d8413d1ff5b43588a16bf3f179013a.png)
-
   - "Assignees" vous permet d'attribuer cette issue aux personnes concernées.
   - "Labels" vous permet d'assigner les étiquettes concernées par votre issue (par exemple, si vous souhaitez signaler quelconque dysfonctionnement sur le site de l'AV, vous pouvez ajouter le label "bug").
   - "Projects" vous permet de faire passer votre issue au sein de l'outil de gestion du projet lorsque celle-ci est jugée pertinente. Vous pouvez préciser si elle est à faire, en cours, à valider, ou finie. 
+  
+![](https://pad.lescommuns.org/uploads/upload_63d8413d1ff5b43588a16bf3f179013a.png)
+
 
 * La **_rubrique Projets_** est directement liée aux issues, telle qu'elle correspond à la mise en application des propositions. En effet, les contributeurs actifs créent un projet, et choisissent d'y ajouter ou pas les propositions formulées dans les issues. Lorsque vous cliquez sur un projet, la page suivante apparait : 
 
@@ -54,3 +54,19 @@ Sur la droite de l'écran (seulement lorsque vous êtes identifiés comme membre
 
 Vous trouverez par exemple les les colonnes suivantes : To do/à faire ; In progress/en cours ; Done/Finie sous condition d'être validée. À vous de déplacer les cartes en fonction des avancées de votre issue. 
 Les "+" en haut de chaque colonne vous permettent d'ajouter de nouvelles issues. 
+
+
+* La **_rubrique Pull requests_** vous permet de retrouver tous les documents en cours d'édition, qui n'ont pas encore été fusionnés avec le "tronc commun" (la master branch) du projet, et qui sont donc encore soumis aux modifications des personnes assignées en tant que "reviewers". Lorsque vous accédez à une "pull request", vous trouverez une page telle que la suivante.
+  - "Conversations" correspond à une timeline de l'ensemble des modifications et commentaires apportés à ce fichier.
+  - "Commits" correspond aux différentes versions de ce document (en allant de la plus ancienne à la plus récente). 
+  - "Files changed" vous permet de visualiser l'ensemble des modifications apportées à votre document. Ce qui est surligné en rouge correspond à ce qui a été remplacé par ce qui est surligné en vert. 
+
+![](https://pad.lescommuns.org/uploads/upload_e1e31f5ae1dc55c697b698b631e6ded2.png)
+
+**Si vous êtes l'éditeur du document et que vous souhaitez le modifier** : cliquez sur la dernière version présente, puis sur les trois petits points en haut à droite du document, et enfin sur "edit file".
+![](https://pad.lescommuns.org/uploads/upload_a406622076f20f910c71bc6653ae608f.png)
+
+**Si vous êtes "reviewer" du document et que vous souhaitez le commenter** : Dans la rubrique "files changed", cliquez sur "review changes", rédigez votre commentaire tout en vous assurant de cocher "comment" puis cliquez sur "submit request". Votre commentaire apparaitra dans la rubrique "conversations" et pourra alors être traité par l'éditeur du document. 
+![](https://pad.lescommuns.org/uploads/upload_9a74b6ff89117f64f37c628b55f1410d.png)
+
+Si vous considérez que votre document est complet, et que l'ensemble des "reviewers" sont satisfaits de sa version finale, vous pouvez cliquez sur "merge pull request" puis sur "confirm merge" ce qui vous permettra de fusionner votre fichier avec le projet, que vous retrouverez donc dans la **_rubrique Code_**. 
