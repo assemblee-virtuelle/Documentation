@@ -1,10 +1,14 @@
 # <center>Accès aux différents canaux de communication Element</center>
 
-L’Assemblée Virtuelle utilise le protocole de communication Matrix afin d’échanger sur son organisation, à travers les différents cercles et différents projets. Celui-ci permet de faire intéragir différents clients dans des salons de discussions. Un serveur matrix est ainsi auto-hébergé par l’association pour faciliter la discussion des membres qui la composent. Différents protocoles permettent de se connecter au Matrix de l’association afin d’échanger avec ses membres. Le client recommandé et utilisé par la quasi-totalité des membres est Element, mais d’autres clients peuvent intéragir avec le serveur Matrix de l’association.
+Les messages instantanés échangés par les contributeurs de l'Assemblée Virtuelle se repose sur le protocole [Matrix](https://matrix.org/). Ce sont des standards ouverts qui permettent des communications sécurisés et des serveurs décentralisés.
+
+L’association héberger son propre serveur Matrix. 
+
+Plusieurs applications permettent de se connecter au réseau Matrix. Le client que nous recommandons est [Element](https://element.io/).
 
 Tu souhaites participer aux différents projets de l'Assemblée Virtuelle et participer à la vie de sa communauté ? Voici une liste de liens vers les chats de l'association. Rejoins ceux qui t'intéressent et pour lesquels tu penses pouvoir contribuer  ! 
 
-### <center>Cercles de l'Assemblée Virtuelle
+### <center>Cercles de l'Assemblée Virtuelle</center>
 
 
 
@@ -28,7 +32,7 @@ Tu souhaites participer aux différents projets de l'Assemblée Virtuelle et par
 | Team Services Civiques             | [<img src =https://pad.lescommuns.org/uploads/upload_cf598cb48dbfa0cc9a3da4af6b2c21d7.png style="width: 60px;"/>](https://riot.im/app/#/room/!NsmhjrnsoxtIKrgCWK:matrix.virtual-assembly.org) |             |
 | Technology Projects                | [<img src =https://pad.lescommuns.org/uploads/upload_cf598cb48dbfa0cc9a3da4af6b2c21d7.png style="width: 60px;"/>](https://riot.im/app/#/room/#tech-coord:matrix.virtual-assembly.org)         |             |
 
-### <center>Projets et groupes de travail 
+### <center>Projets et groupes de travail </center>
 
 
 | Intitulé du salon           | Lien Element                                                                                                                                                                                  | Description |
