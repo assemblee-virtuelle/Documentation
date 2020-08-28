@@ -1,6 +1,6 @@
 # <center>Accès aux différents canaux de communication Element</center>
 
-Les messages instantanés échangés par les contributeurs de l'Assemblée Virtuelle se repose sur le protocole [Matrix](https://matrix.org/). Ce sont des standards ouverts qui permettent des communications sécurisés et des serveurs décentralisés.
+Les messages instantanés échangés par les contributeurs de l'Assemblée Virtuelle se reposent sur le protocole [Matrix](https://matrix.org/). Ce sont des standards ouverts qui permettent des communications sécurisés et des serveurs décentralisés.
 
 L’association héberger son propre serveur Matrix. 
 
