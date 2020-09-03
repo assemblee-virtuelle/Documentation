@@ -19,8 +19,12 @@ Support permettant à n'importe quel membre actif d'embarquer un nouveau contrib
    - Accessible dans le dossier [Github de l'AV/Documentation](https://github.com/assemblee-virtuelle/Documentation/blob/master/Fiche%20de%20pr%C3%A9sentation%20AV.md) ou dans le dossier fiche de présentation sur le [drive de l'AV](https://drive.google.com/file/d/1-QgWYTkWd3BKT5r1_bcovluh1foQcuRK/view?usp=sharing).
    - Créer une copie dans le dossier fiches complétées et la remplir.
    
-6. Lui informer du planning des réunions des CDLT.
+6. Lui informer du planning des réunions de l'AV.
    - Tout d'abord, lui proposer de se présenter dans le [Canal général](https://app.element.io/#/room/#general:matrix.virtual-assembly.org). 
    - Le tenir informé de la prochaine réunion afin qu'il puisse se présenter à l'équipe de l'AV.
    
 7. Veiller à ce qu'il prenne connaissance de la possibilité d'adhérer (cotisations) aux projets de l'AV.
+
+8. L'amener à suivre la communauté de l'AV sur les réseaux sociaux :
+   - [Facebook](https://www.facebook.com/AssembleeVirtuelle/)
+   - [Twitter](https://twitter.com/AssembleeV?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
