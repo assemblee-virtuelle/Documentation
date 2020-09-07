@@ -8,12 +8,16 @@ Retrouvez aussi la communauté Transiscope sur : https://chat.lescommuns.org/cha
 
 Element peut être utilisé directement sur votre navigateur : https://app.element.io/?pk_vid=3967c7bf75ff37e81596549874c37b51#/welcome 
 Mais on vous recommande aussi de télécharger l'application mobile. ![](https://pad.lescommuns.org/uploads/upload_3716b408c1a2d8b27d2907f2a03bbcc4.png)
+
 Deux chemins s'offrent à vous : 
 
 ## S'inscrire en utilisant le serveur personnalisé de l'AV (RECOMMANDÉ)
 
 1. En amont, demander à quelqu'un de l'AV d'inscrire votre email dans la base de données, via Jonas
-2. Cliquez sur le bloc “Avancé” puis remplacez l’url du serveur d’accueil par : https://matrix.virtual-assembly.org et cliquez sur “suivant”.                                          ![](https://pad.lescommuns.org/uploads/upload_cd033e699925929cee40740314c2e2a3.png)
+2. Cliquez sur le bloc “Avancé” puis remplacez l’url du serveur d’accueil par : https://matrix.virtual-assembly.org et cliquez sur “suivant". 
+
+![](https://pad.lescommuns.org/uploads/upload_cd033e699925929cee40740314c2e2a3.png)
+
 3. Entrez vos informations personnelles (adresse mail, mot de passe, nom d'utilisateur)
 5. Appuyez sur le bouton “S’inscrire” et c’est bon, vous allez recevoir un email, qui vous permettra de confirmer votre inscription.
 6. Rendez-vous sur [ce document](https://pad.lescommuns.org/NULi_QmkS0-X9dmlogyY8g#), et cliquez sur les liens vers les chats qui vous intéressent.
