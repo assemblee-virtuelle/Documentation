@@ -1,3 +1,5 @@
+# Rejoignez-nous !
+
 Futur contributeur, contributrice ? 
 Nous sommes heureux de t'accueillir parmi nous ! Avant toute chose, nous te demandons de bien vouloir remplir une [fiche de présentation](https://drive.google.com/file/d/1-QgWYTkWd3BKT5r1_bcovluh1foQcuRK/view?usp=sharing) afin que nous puissions faire davantage connaissance.
 Une fois cette fiche remplie (il te suffira de l'ouvrir avec Google docs), tu attendras qu'un membre actif de l'association te donne les accès au Google Drive de l'Assemblée Virtuelle afin de pouvoir la rajouter dans le dossier "fiches complétées AV".  
