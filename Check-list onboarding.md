@@ -8,7 +8,7 @@ Support permettant à n'importe quel membre actif d'embarquer un nouveau contrib
 
 2. Veiller à ce que le nouveau contributeur se familiarise avec les outils numériques utilisés par l'AV (Element et Github).
    - Les guides pour Element et Github sont présents en français et en anglais sur le [site de l'AV](https://www.virtual-assembly.org/version-wordpress-2/), ou encore dans [la master branch de l'AV/Documentation](https://github.com/assemblee-virtuelle/Documentation). Pour ceux n'ayant pas accès à ce dossier, voici les versions PAD : [Guide Element FR/UK](https://pad.lescommuns.org/t9kD-4xLTAa-LlQNV-iNUw) ; [Guide Github](https://pad.lescommuns.org/MFT1rhHhSJuSofyaGroiFw). 
-   - Voici un [document](https://pad.lescommuns.org/DuVPghA7QTiFaGzkzKDnfw) répertoriant les différents liens vers les canaux de disscussion Element. 
+   - Voici un [document](https://github.com/assemblee-virtuelle/Documentation/blob/master/Guide%20du%20nouvel%20arrivant/Acc%C3%A8s%20aux%20diff%C3%A9rents%20canaux%20de%20communication%20Element.md) répertoriant les différents liens vers les canaux de disscussion Element. Également accessible [içi](https://pad.lescommuns.org/DuVPghA7QTiFaGzkzKDnfw)
 
 3. Veiller à son accès au [Google drive de l'AV](https://drive.google.com/drive/folders/0By8nyiKT594tc2FaaHFPaFlfNk0?usp=sharing) uniquement possible grâce à votre autorisation.
 
