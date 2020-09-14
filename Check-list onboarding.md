@@ -22,6 +22,7 @@ Pratiquement tous les documents indispensables au nouveau contributeur sont main
 6. Lui informer du planning des réunions de l'AV.
    - Tout d'abord, lui proposer de se présenter dans le [Canal général](https://app.element.io/#/room/#general:matrix.virtual-assembly.org). 
    - Le tenir informé de la prochaine réunion afin qu'il puisse se présenter à l'équipe de l'AV.
+   - lien vers le google agenda de l'AV : https://calendar.google.com/calendar/u/0?cid=ODhzcmcwNWk1NmY5bmZuaXUxZHBrdHA0bzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
    
 7. Veiller à ce qu'il prenne connaissance de la possibilité d'adhérer (cotisations) aux projets de l'AV.
 
