@@ -20,7 +20,7 @@ Deux chemins s'offrent à vous :
 
 3. Entrez vos informations personnelles (adresse mail, mot de passe, nom d'utilisateur)
 5. Appuyez sur le bouton “S’inscrire” et c’est bon, vous allez recevoir un email, qui vous permettra de confirmer votre inscription.
-6. Rendez-vous sur [ce document](https://pad.lescommuns.org/NULi_QmkS0-X9dmlogyY8g#), et cliquez sur les liens vers les chats qui vous intéressent.
+6. Rendez-vous sur [ce document](https://pad.lescommuns.org/DuVPghA7QTiFaGzkzKDnfw), et cliquez sur les liens vers les chats qui vous intéressent.
 7. Connectez-vous avec vos identifiants, sans oublier de choisir le bloc "Avancé" et de remplacer l'url par https://matrix.virtual-assembly.org
 8. Le tour est joué ! 
 
