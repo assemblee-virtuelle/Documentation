@@ -1,4 +1,4 @@
-# Accéder au Google drive de l'Assemblée Virtuelle
+# Accéder au Google drive de l'Assemblée Virtuelle et des Chemins de la Transition
 
 Fraichement contributeur, contributrice ? 
 Tout d'abord nous vous souhaitons la bienvenue :) 
