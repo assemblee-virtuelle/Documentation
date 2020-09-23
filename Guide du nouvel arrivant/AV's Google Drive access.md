@@ -1,4 +1,4 @@
-# Access Virtual Assembly's Google Drive
+# Access Virtual Assembly/Paths of Transition's Google Drive
 
 New contributor ? 
 First of all, welcome :)
