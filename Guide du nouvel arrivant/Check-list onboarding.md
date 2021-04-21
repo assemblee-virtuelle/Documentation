@@ -3,8 +3,6 @@
 Support permettant à n'importe quel membre actif d'embarquer un nouveau contributeur sur les projets de l'association ! 
 Pratiquement tous les documents indispensables au nouveau contributeur sont maintenant disponibles dans le dossier [Guide du nouvel arrivant](https://github.com/assemblee-virtuelle/Documentation/tree/master/Guide%20du%20nouvel%20arrivant) présent dans AV/Documentation.
 
-**Lien zoom pour les réunions : https://zoom.us/j/91609759646**
-
 1. Tout d'abord, est-ce que le nouvel arrivant a pu accéder à une présentation de l'AV ? 
    - Projet de présentation mensuelle de l'AV en visio à mettre en place et à diffuser sur Facebook/Youtube par exemple.
    - Veiller à ce que le nouveau contributeur visite le [site internet de l'AV](https://www.virtual-assembly.org).
